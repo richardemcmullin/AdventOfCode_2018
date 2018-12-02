@@ -1,4 +1,4 @@
-package solver;
+package adventOfCode.solver;
 
 import java.util.Scanner;
 
